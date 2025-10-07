@@ -5,9 +5,9 @@
 
 ### Module-1
 
-**Simple UI:** A clean and interactive user interface built with Streamlit.
-**Data Visualization:** Displays the full expense dataset in a table and shows a bar chart of total spending per category.
-**Python Backend:** All data processing and generation is handled efficiently using Python.
+* **Simple UI:** A clean and interactive user interface built with Streamlit.
+* **Data Visualization:** Displays the full expense dataset in a table and shows a bar chart of total spending per category.
+* **Python Backend:** All data processing and generation is handled efficiently using Python.
 
 ### 🛠️ Technologies Used
 
