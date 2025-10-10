@@ -1,7 +1,6 @@
 # Project Documentation: AI-Based Expense Forecasting Tool
 
-### Prepared for: Project Stakeholders
-### Date: October 10, 2025
+### Buddy With Brain
 
 ---
 
@@ -168,6 +167,5 @@ This initial phase focused on building foundational knowledge and preparing the 
     * Learned to generate insightful charts and graphs using data visualization libraries like Matplotlib and Seaborn.
 
 * **Week 3: Data Sourcing and Initial Development**
-    * Successfully identified, sourced, and validated the final dataset that will be used to train and test the forecasting models.
-    * Finalized the project's technology stack, confirming the use of Python, Streamlit for the user interface, and Statsmodels for statistical modeling.
+    * Finalized the project's technology stack, confirming the use of Python and Streamlit for the user interface.
     * Commenced the first phase of development, which included data cleaning, preprocessing, and setting up the initial framework for model training.
