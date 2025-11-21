@@ -1,9 +1,0 @@
-streamlit
-pandas
-pdfplumber
-streamlit-authenticator
-pyyaml
-plotly
-nltk
-prophet
-openpyxl
