@@ -1,0 +1,26 @@
+cookie:
+  expiry_days: 30
+  key: some_random_key_123
+  name: some_random_cookie
+credentials:
+  usernames:
+    harshu:
+      email: harsha@gmail.com
+      failed_login_attempts: 0
+      first_name: harsha
+      last_name: sree
+      logged_in: true
+      password: $2b$12$ylIQ0fmIvLwPg30cIzKM2.i8tpY/b5HGxvYzw/lV3dqHzk.cbH3qK
+      password_hint: name
+      roles: null
+    sru_123:
+      email: srujan@gmail.com
+      failed_login_attempts: 0
+      first_name: Srujan
+      last_name: sai
+      logged_in: true
+      password: $2b$12$1aT6aXM/Sk8nOOFjHoz4yu2TW2OLnAqzmb.3w.BfV0w61ffCd2rIS
+      password_hint: name
+      roles: null
+preauthorized:
+  emails: []
